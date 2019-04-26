@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/pritesht040223/testProject/_apis/build/status/pritesht04.mvc-test-app?branchName=master)](https://dev.azure.com/pritesht040223/testProject/_build/latest?definitionId=1&branchName=master)
